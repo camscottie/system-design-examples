@@ -14,6 +14,7 @@ Students will be prompted through the following steps to be matched to counsello
 - **Connect Institutions:** user requests access to records, or provides any references directly (e.g. GP referral note, insurance reference)
 - **Match Student to Counsellors:** This is where students can take a survey, consider the types of services that they may be looking for and provide preferences to find counsellors that match their requirements. 
 
+
 ## Funding Options
 One important thing that will change the data needed per person is where the funding is coming from. There are four possible payment pathways:
 1. Self-funded
