@@ -1,9 +1,7 @@
 # Introduction
 This project is inspired by a company that connects mental health practitioners to those seeking their services, including students, NHS patients and private insurance clients.
 
-My intention is to implement a system to match mental health practitioners to students seeking their services. In this we consider the regulatory requirements that are necessary when dealing with sensitive data, the data pipelines that need to be created, and how can we match practitioners to students effectively.
-
-Note: the data in this design is fabricated, and not representative of any real systems. 
+Here I lay out the pre-requisites for a data system to match mental health practitioners to students seeking their services. In this page I consider a user's data journey and requiremenst around privacy, security and governance.
 
 # What Does the User Want?
 When we process data, it's important to consider the experience that we are trying to provide to our downstream customers. As a data engineer, it is tempting to think only of the people who we will hand off the data to such as data analysts or machine learning scientists, but it's important to consider how the system affects the final user experience.
